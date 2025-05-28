@@ -20,7 +20,7 @@ Requisitos:
 
     Após o término do download dos pacotes, crie na pasta raiz do projeto um arquivo .env (se já não existir) O arquivo .env é para setar váriaveis de ambiente e possuem informações sensíveis de senha e usuário de acesso ao banco, por isso é ignorado pelo git
 
-    Adicione as seguintes dados dentro do arquivo .env:
+    Adicione os seguintes dados dentro do arquivo .env:
 
     DATABASE=db_interdisciplinar HOST=localhost USER=NomeDOUsuario PASSWORD=SenhaDoSeuDB
 
